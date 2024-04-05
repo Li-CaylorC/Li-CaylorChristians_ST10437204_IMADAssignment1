@@ -1,0 +1,221 @@
+{
+  "famous_person": [
+    {
+      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Whitney_Houston_%28cropped3%29.JPEG/220px-Whitney_Houston_%28cropped3%29.JPEG",
+      "name": "Whitney Houston",
+      "age": 48,
+      "description": "Singer and actor Whitney was widely regarded as having one of the best voices of all time",
+      "date died": "2012-02-11"
+    },
+    {
+      "image": "https://i.ndtvimg.com/mt/movies/2012-06/amy-winehouse-book-dad.jpg",
+      "name": "Amy Winehouse",
+      "age": 27,
+      "description": "Amy was best known for her explosive vocals and expressive songwriting",
+      "date died": "2011-07-23"
+    },
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Elvis_Presley_1973_RCA_Records_and_Tapes_publicity_2_-_cropped.png/220px-Elvis_Presley_1973_RCA_Records_and_Tapes_publicity_2_-_cropped.png",
+      "name": "Elvis Presely",
+      "age": 41,
+      "description": "American singer and actor Known as the king of Rock and Roll",
+      "date died": "1977-08-16"
+    },
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg/220px-Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg",
+      "name": "Queen Elizabeth�II",
+      "age": 96,
+      "description": "Elizabeth was a queen of the United Kingdom and other Commonwealth realms",
+      "date died": "2022-09-08"
+    },
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Mother_Teresa_1.jpg/220px-Mother_Teresa_1.jpg",
+      "name": "Mother Teresa",
+      "age": 87,
+      "description": "Albanian-Indian church nun, Noble peace prize winner, saint and a selfless missionary of charity",
+      "date died": "1997-09-05"
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsO8wTWK61ZXvHDPQfsN8dRHgXiBFs1LaRSw&usqp=CAU",
+      "name": "Micheal Jackson",
+      "age": 50,
+      "description": "American singer-songwriter and dancer. Jackson is one of the bestselling music artists of all time",
+      "date died": "2009-06-25"
+    },
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Einstein_1921_by_F_Schmutzer_-_restoration.jpg/220px-Einstein_1921_by_F_Schmutzer_-_restoration.jpg",
+      "name": "Albert Einstein",
+      "age": 76,
+      "description": "Theoretical physicist, Albert Einstein was a German-born theoretical physicist who is widely held to be one of the greatest and most influential scientists of all time",
+      "date died": "1955-04-18"
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrI0fJfjSZ5K3UJL_5y1KzrXkwmj-d-ehUDA&usqp=CAU",
+      "name": "Bob Marley",
+      "age": 36,
+      "description": "Jamaican singer and guitarist, Robert Nesta Marley OM was a Jamaican reggae singer, guitarist, and songwriter",
+      "date died": "1981-05-11"
+    },
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/Tupac_Amaru_Shakur2.jpg/220px-Tupac_Amaru_Shakur2.jpg",
+      "name": "Tupac Shukar",
+      "age": 25,
+      "description": "American rapper Tupac Amaru Shakur, also known by his stage names 2Pac and Makaveli, was an American rapper. He is widely considered one of the most influential and successful rappers of all time",
+      "date died": "1996-09-13"
+    },
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Monroecirca1953.jpg/220px-Monroecirca1953.jpg",
+      "name": "Marilyn Monroe",
+      "age": 36,
+      "description": "American actress and model, She became one of the world's most enduring iconic figures and is remembered both for her winsome embodiment of the Hollywood sex symbol and her tragic personal and professional struggles within the film industry",
+      "date died": "1992-08-05"
+    },
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Hitler_portrait_crop.jpg/220px-Hitler_portrait_crop.jpg",
+      "name": "Adolf Hitler",
+      "age": 56,
+      "description": "Adolf Hitler was an Austrian-born German politician who was the dictator of Germany from 1933 until his suicide in 1945. He rose to power as the leader of the Nazi Party, becoming the chancellor in 1933 and then taking the title of Führer und Reichskanzler in 1934",
+      "date died": "1945-04-19"
+    },
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Akira_Toriyama_in_1982.jpg/220px-Akira_Toriyama_in_1982.jpg",
+      "name": "Akira Toriyama",
+      "age": 68,
+      "description": "Akira Toriyama was a Japanese manga artist and character designer. He first achieved mainstream recognition for creating the popular manga series Dr. Slump, before going on to create Dragon Ball Z",
+      "date died": "2024-03-01"
+    },
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Mac_Miller_%287%29_%E2%80%93_splash%21_Festival_20_%282017%29_%28cropped%29.jpg/220px-Mac_Miller_%287%29_%E2%80%93_splash%21_Festival_20_%282017%29_%28cropped%29.jpg",
+      "name": "Mac Miller",
+      "age": 26,
+      "description": "Malcolm James McCormick, known professionally as Mac Miller, was an American rapper, singer-songwriter, and record producer",
+      "date died": "2018-09-07"
+    },
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Georg_Simon_Ohm3.jpg/220px-Georg_Simon_Ohm3.jpg",
+      "name": "Goerge Ohm",
+      "age": 65,
+      "description": "Georg Simon Ohm was a German physicist and mathematician. As a schoolteacher, Ohm began his research with the new electrochemical cell, invented by Italian scientist Alessandro Volta",
+      "date died": "1854-07-06"
+    },
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Francesco_Melzi_-_Portrait_of_Leonardo.png/220px-Francesco_Melzi_-_Portrait_of_Leonardo.png",
+      "name": "Leonardo Da Vinci",
+      "age": 67,
+      "description": "Leonardo di ser Piero da Vinci was an Italian polymath of the High Renaissance who was active as a painter, draughtsman, engineer, scientist, theorist, sculptor, and architect",
+      "date died": "1519-05-02"
+    },
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Chadwick_Boseman_by_Gage_Skidmore_July_2017_%28cropped%29.jpg/220px-Chadwick_Boseman_by_Gage_Skidmore_July_2017_%28cropped%29.jpg",
+      "name": "Chadwick Boseman",
+      "age": 43,
+      "description": "Malcolm James McCormick, known professionally as Mac Miller, was an American rapper, singer-songwriter, and record producer",
+      "date died": "2020-08-28"
+    },
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Kobe_Bryant_2014.jpg/240px-Kobe_Bryant_2014.jpg",
+      "name": "Kobe Bryant",
+      "age": 41,
+      "description": "Lakers basketball player NBA champ known for serving hoops in his team called the Lakers",
+      "date died": "2020-01-26"
+    },
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Nelson_Mandela_1994.jpg/220px-Nelson_Mandela_1994.jpg",
+      "name": "Nelson Mandela",
+      "age": 95,
+      "description": "Nelson Rolihlahla Mandela was a South African anti-apartheid activist and politician who served as the first president of South Africa from 1994 to 1999. He was the country's first black head of state and the first elected in a fully representative democratic election",
+      "date died": "2015-12-05"
+    },
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/220px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg",
+      "name": "Goerge Washington",
+      "age": 67,
+      "description": "George Washington was an American Founding Father, military officer, and politician who served as the first president of the United States from 1789 to 1797",
+      "date died": "1799-12-14"
+    },
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Abraham_Lincoln_O-77_matte_collodion_print.jpg/220px-Abraham_Lincoln_O-77_matte_collodion_print.jpg",
+      "name": "Abraham Lincon",
+      "age": 59,
+      "description": "Abraham Lincoln was an American lawyer, politician, and statesman who served as the 16th president of the United States from 1861 until his assassination in 1865",
+      "date died": "1865-04-15"
+    },
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Winnie_Mandela.jpg/220px-Winnie_Mandela.jpg",
+      "name": "Winnie Mandela",
+      "age": 81,
+      "description": "Winnie Madikizela-Mandela OLS MP also known as Winnie Mandela, was a South African anti-apartheid activist and politician, and the second wife of Nelson Mandela",
+      "date died": "2018-04-02"
+    },
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Avicii_2014_003cr.jpg/220px-Avicii_2014_003cr.jpg",
+      "name": "Avicii",
+      "age": 29,
+      "description": "Tim Bergling, known professionally as Avicii, was a Swedish record producer. At age 16, Bergling began posting his remixes on electronic music forums, which led to his first record deal. He rose to prominence in 2011 with his single Levels",
+      "date died": "2018-04-20"
+    },
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Matthew_Perry_in_support_of_Awareness_on_Drug_Courts_and_Reduced_Substance_Abuse.jpg/220px-Matthew_Perry_in_support_of_Awareness_on_Drug_Courts_and_Reduced_Substance_Abuse.jpg",
+      "name": "Matthew Perry",
+      "age": 55,
+      "description": "Matthew Langford Perry was an American and Canadian actor. He gained international fame for starring as Chandler Bing on the NBC television sitcom Friends. Perry also appeared on Ally McBeal and received Primetime Emmy Award nominations",
+      "date died": "2023-10-28"
+    },
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Cameron_Boyce_in_october_2017.jpg/220px-Cameron_Boyce_in_october_2017.jpg",
+      "name": "Cameron Boyce",
+      "age": 20,
+      "description": "Cameron Mica Boyce was an American actor. He began his career as a child actor, appearing in the 2008 films Mirrors and Eagle Eye, along with the comedy film Grown Ups and its 2013 sequel. His first starring role was on the Disney Channel comedy series Jessie",
+      "date died": "2019-07-06"
+    },
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Migos_%2836471054572%29.jpg/220px-Migos_%2836471054572%29.jpg",
+      "name": "Takeoff",
+      "age": 28,
+      "description": "Kirsnick Khari Ball, known professionally as Takeoff, was an American rapper. He was best known as the youngest member of the hip hop group Migos along with his uncle Quavo and close affiliate Offset",
+      "date died": "2011-11-01"
+    },
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Portrait_de_Picasso%2C_1908.jpg/220px-Portrait_de_Picasso%2C_1908.jpg",
+      "name": "Pablo Picasso",
+      "age": 91,
+      "description": "Pablo Ruiz Picasso was a Spanish painter, sculptor, printmaker, ceramicist, and theatre designer who spent most of his adult life in France.",
+      "date died": "1973-04-08"
+    },
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Vincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project_%28454045%29.jpg/220px-Vincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project_%28454045%29.jpg",
+      "name": "Vincent Van Gogh",
+      "age": 37,
+      "description": "Vincent Willem van Gogh was a Dutch Post-Impressionist painter who is among the most famous and influential figures in the history of Western art. In just over a decade he created approximately 2100 artworks, including around 860 oil paintings",
+      "date died": "1890-07-29"
+    },
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Aaliyah-02.jpg/220px-Aaliyah-02.jpg",
+      "name": "Aaliyah",
+      "age": 22,
+      "description": "Aaliyah Dana Haughton was an American singer and actress. She has been credited with helping to redefine contemporary R&B, pop, and hip hop, earning her the nicknames the Princess of R&B and Queen of Urban Pop",
+      "date died": "2001-08-25"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/kIX4AG9N6se2LpvrpVpvJFxQ9ypE7xXlR45-WMfdug8TdoHAhxl5y5km4XGqFiwrEztQ2QaO6InsFjMAUvrLKJwtRpH5Mc_x5VxR=s737",
+      "name": "AKA",
+      "age": 35,
+      "description": "Kiernan Jarryd Forbes, known professionally as AKA, was a South African rapper, record producer, and businessman. Born in Cape Town and raised in Johannesburg, Forbes gained recognition after releasing his single Victory Lap from his debut studio album, Alter Ego.",
+      "date died": "2023-02-10"
+    },
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Naya_Rivera_by_Gage_Skidmore.jpg/220px-Naya_Rivera_by_Gage_Skidmore.jpg",
+      "name": "Naya Rivera",
+      "age": 33,
+      "description": "Naya Marie Rivera was an American actress, singer, and model. Recognized for her work on the popular musical comedy-drama series Glee which she starred from 2009 to 2015. She received various awards, including a Screen Actors Guild Award and nominations for two Grammy Awards",
+      "date died": "2020-07-08"
+    },
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Portrait_of_Sir_Isaac_Newton%2C_1689_%28brightened%29.jpg/220px-Portrait_of_Sir_Isaac_Newton%2C_1689_%28brightened%29.jpg",
+      "name": "Isaac Newton",
+      "age": 84,
+      "description": "Sir Isaac Newton was an English polymath active as a mathematician, physicist, astronomer, alchemist theologist and author who was described in his time as a natural philosopher.",
+      "date died": "1727-03-27"
+    }
+  ]
+}

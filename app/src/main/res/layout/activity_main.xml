@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="130dp"
+        android:layout_height="35dp"
+        android:layout_marginBottom="8dp"
+        android:text=" enter age"
+        android:textAlignment="textEnd"
+        android:textSize="20sp"
+        android:textStyle="normal"
+        app:layout_constraintBottom_toTopOf="@+id/textView3"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.106"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.997" />
+
+    <EditText
+        android:id="@+id/edAge"
+        android:layout_width="162dp"
+        android:layout_height="40dp"
+        android:layout_marginBottom="4dp"
+        android:ems="10"
+        android:inputType="number"
+        android:text="20"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/edRange"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.734"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0" />
+
+    <Button
+        android:id="@+id/btnClear"
+        android:layout_width="144dp"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#C5862D"
+        android:text="clear "
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.883"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/imageView3"
+        app:layout_constraintVertical_bias="0.976" />
+
+    <Button
+        android:id="@+id/btnSearch"
+        android:layout_width="144dp"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#C5862D"
+        android:text="search "
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        android:textStyle="normal"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.059"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.976" />
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="match_parent"
+        android:layout_height="430dp"
+        android:scaleType="center"
+        app:srcCompat="@drawable/history_app_1"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="0dp" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="130dp"
+        android:layout_height="35dp"
+        android:layout_marginStart="28dp"
+        android:layout_marginBottom="104dp"
+        android:text="range"
+        android:textAlignment="textEnd"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toTopOf="@+id/btnSearch"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0" />
+
+    <EditText
+        android:id="@+id/edRange"
+        android:layout_width="162dp"
+        android:layout_height="40dp"
+        android:layout_marginBottom="104dp"
+        android:ems="10"
+        android:inputType="number"
+        android:text="0"
+        app:layout_constraintBottom_toTopOf="@+id/btnClear"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.734"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="350dp"
+        android:layout_height="93dp"
+        android:fontFamily="cursive"
+        android:text="Deadly Famous"
+        android:textColor="#121111"
+        android:textSize="60sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="@+id/imageView3"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.491"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/imageView3"
+        app:layout_constraintVertical_bias="0.181" />
+
+    <TextView
+        android:id="@+id/tvResult"
+        android:layout_width="312dp"
+        android:layout_height="63dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.494"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView3"
+        app:layout_constraintVertical_bias="0.68" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
